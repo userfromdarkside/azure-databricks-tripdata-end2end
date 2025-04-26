@@ -1,10 +1,8 @@
-# azure-databricks-tripdata-end2end
-An end-to-end data pipeline using Azure Databricks and Delta Lake, applying the Medallion Architecture to transform raw trip data into actionable business KPIs
 
 #  Azure Databricks Trip Analytics Pipeline Project
 
 ##  Project Overview
-This project implements a real-world **big data pipeline** using the **Medallion Architecture** (Bronze → Silver → Gold) on Azure Databricks and Delta Lake. It ingests, cleans, transforms, models, and aggregates trip and ride rating datasets.
+This project implements a real-world **big data pipeline** using the **Medallion Architecture** (Bronze → Silver → Gold) on Azure Databricks and Delta Lake. It ingests, cleans, transforms, models, and aggregates trip and ride rating datasets to transform raw trip data into actionable business KPIs
 
 **Technologies Used:**
 - Azure Data Lake Storage Gen2 (ADLS Gen2)
